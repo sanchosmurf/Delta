@@ -1,0 +1,140 @@
+repo_name: sanchosmurf/Delta
+report_id: 68776290924918b0738fed84a933c9c1
+version: 0.1
+repo_type: Public
+timestamp: '2024-05-08T16:53:50+00:00'
+requested_by: rileytestut
+provider: github
+branch: main
+detected_tools_count: 11
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/sanchosmurf/Delta
+  detection_source: Repo Metadata
+- name: Objective-C
+  description: The primary programming language you use when writing software for
+    OS X and iOS
+  website_url: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/sanchosmurf/Delta
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/sanchosmurf/Delta
+  detection_source: Repo Metadata
+- name: Swift
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/sanchosmurf/Delta
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/sanchosmurf/Delta
+  detection_source: Repo Metadata
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/sanchosmurf/Delta/blob/main/Podfile.lock
+  detection_source: Podfile.lock
+  last_updated_by: Riley Testut
+  last_updated_on: 2015-10-11 02:26:18.000000000 Z
+- name: SDWebImage
+  description: "CocoaDocs is a hosted Obj-C documentation website. \n\nCreated by
+    @orta &amp; the @CocoaPods team."
+  website_url: http://cocoadocs.org/docsets/SDWebImage/4.1.0/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/7384/HeO34Gem_normal.jpeg
+  detection_source_url: https://github.com/sanchosmurf/Delta/blob/main/Podfile
+  detection_source: Podfile
+  last_updated_by: Riley Testut
+  last_updated_on: 2016-11-19 01:31:25.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/sanchosmurf/Delta
+  detection_source: Repo Metadata
+- name: SDWebImage
+  description: Asynchronous image downloader with cache support with an UIImageView
+    category
+  package_url: https://cocoapods.org/pods/SDWebImage
+  version: 3.8.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/package/cocoapods/image.png
+  detection_source_url: https://github.com/sanchosmurf/Delta/blob/main/Podfile.lock
+  detection_source: Podfile
+  last_updated_by: Riley Testut
+  last_updated_on: 2016-11-19 01:31:25.000000000 Z
+- name: SMCalloutView
+  description: A lightweight callout view class for iOS mimicking UICalloutView
+  package_url: https://cocoapods.org/pods/SMCalloutView
+  version: 2.1.5
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/package/cocoapods/image.png
+  detection_source_url: https://github.com/sanchosmurf/Delta/blob/main/Podfile.lock
+  detection_source: Podfile
+  last_updated_by: Riley Testut
+  last_updated_on: 2020-12-22 19:03:45.000000000 Z
+- name: SQLite.swift
+  description: A type-safe, Swift-language layer over SQLite3
+  package_url: https://cocoapods.org/pods/SQLite.swift
+  version: 0.12.2
+  license: ''
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/package/cocoapods/image.png
+  detection_source_url: https://github.com/sanchosmurf/Delta/blob/main/Podfile.lock
+  detection_source: Podfile
+  last_updated_by: Riley Testut
+  last_updated_on: 2020-02-04 03:28:23.000000000 Z
